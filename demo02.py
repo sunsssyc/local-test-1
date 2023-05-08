@@ -5,5 +5,6 @@ class ListNode:
         self.val = val
         self.next = next
 
-
-
+class soulution:
+    def reverse(self,Listnode):
+        pass
